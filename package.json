@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "formidable": "^3.5.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@vite-pwa/nuxt": "^0.1.1"
+  }
+}
