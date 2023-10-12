@@ -1,0 +1,2 @@
+# belajarnuxt
+masih pemula
